@@ -1,6 +1,6 @@
 "# HirakGoswami_CONSTRUCTWEEK_APPIUM_JAVA_JS_APITESTING" 
 
-#### API Testing with REST Assured
+# API Testing with REST Assured
 
 ## Introduction
 Validate the Post Hook API endpoints using REST Assured.
@@ -45,7 +45,7 @@ endPoint4 - /v1/hooks/{hook_id}
 endPoint5 - /v1/projects/
 
 
-#### Mobile App Testing with Appium (Java)
+# Mobile App Testing with Appium (Java)
 
 ## Introduction
 Automate the testing of the Mx Player mobile app using Appium with Java.
@@ -78,7 +78,7 @@ Download the Mx Player App:
 	https://apkpure.com/mx-player/com.mxtech.videoplayer.ad/downloading 
 
 
-#### Mobile App Testing with WebdriverIO
+# Mobile App Testing with WebdriverIO
 
 ## Introduction
 Automate the testing of the Mx Player mobile app using WebdriverIO with Appium.
